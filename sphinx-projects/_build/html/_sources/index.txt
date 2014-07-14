@@ -7,3 +7,7 @@ Github Projects
 ====================================
 
 - `Pump3000 <http://bergercookie.github.io/Projects/Pump3000/>`_
+
+- NTUA Projects
+  
+  * `Turbomachines-Project <https://github.com/bergercookie/Turbomachines-Project>`_
