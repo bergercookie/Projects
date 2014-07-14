@@ -3,20 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Projects's documentation!
+Github Projects
 ====================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+- `Pump3000 <http://bergercookie.github.io/Projects/Pump3000/>`_
