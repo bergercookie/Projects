@@ -1,5 +1,7 @@
-date = 
+echo "Adding all files"
 git add --all
-git commit -m "Site Rendering  Mon Jul 14 23:50:12 EEST 2014, nickkouk"
+echo "Commiting files"
+git commit -m "Site Rendering $(DATE)"
+echo "Pushing to Github account"
 git push origin gh-pages
 
