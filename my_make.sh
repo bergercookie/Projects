@@ -1,3 +1,5 @@
+echo "Making the html static for index page"
+make -C  ./sphinx-projects
 echo "Adding all files"
 git add --all
 echo "Commiting files"
