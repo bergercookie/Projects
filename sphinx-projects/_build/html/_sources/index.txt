@@ -14,8 +14,10 @@ regarding suggestions thoughts etc.
 
 
 - NTUA Projects
+
   * `Pump3000 <http://bergercookie.github.io/Projects/Pump3000/>`_
   * `Turbomachines-Project <https://github.com/bergercookie/Turbomachines-Project>`_
 
 - Free Time Stuff
-  * `Dotfiles https://github.com/bergercookie/dotfiles`
+
+  * `Dotfiles <https://github.com/bergercookie/dotfiles>`_
