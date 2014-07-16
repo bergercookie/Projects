@@ -20,7 +20,7 @@ the *Download Zip* button
 
 .. figure::  ../Images/downloading.png
    :height: 7000px 
-   :scale:  40 %
+   :scale:  10 %
    :align:  center
 
    Downloading the software
