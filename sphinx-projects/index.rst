@@ -6,12 +6,14 @@
 Github Projects
 ====================================
 
-Hi!
+*Hi!*
 
 This is bergercookie's page.
+I currently study mechanical engineering in the National Technical University of Athens.
+Among others, I enjoy programming, basketball, or just hanging aroung.
+
 Here I will upload code and documentation regarding my projects. Feel free to contact me 
 regarding suggestions thoughts etc.
-
 
 - NTUA Projects
 
