@@ -1,3 +1,6 @@
+curDir="$PWD"
+cd  /Users/nick/local/Projects
+
 echo "Making the html static for index page"
 make html -C  ./sphinx-projects
 echo "Adding all files"
@@ -7,3 +10,5 @@ git commit -m "Site Rendering $(DATE)"
 echo "Pushing to Github account"
 git push origin gh-pages
 
+
+cd $curDir
