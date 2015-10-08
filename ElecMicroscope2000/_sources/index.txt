@@ -14,8 +14,8 @@ used to take pictures of the speciments.
 The software is implemented in both OSX and Windows platforms and is written
 using the MATLAB GUIDE environment.
 
-To download the source code, or make any bug reports, click here
-`<https://github.com/bergercookie/ElecMicroscope>`_
+To download the source code, or make any bug reports, click `here
+<https://github.com/bergercookie/ElecMicroscope>`_
 
 Contents:
 ===========
