@@ -10,4 +10,5 @@ git commit -m "Site Rendering $(DATE)"
 echo "Pushing to Github account"
 git push origin gh-pages
 
+# not needed, but put it here anyway...
 cd $curDir
