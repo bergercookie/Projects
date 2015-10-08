@@ -17,11 +17,11 @@ Through the window, the user can interact with the following features:
     stored in internal buffer. The user can finally press the 'Save all' button
     to store them in the path specified
     This behavior can be altered through the 'Configure' drop-down menu
-    (Configure > Save Intsantly). 
+    (*Configure > Save Intsantly*). 
 
   + By default the saving directory is the one from which you launch the  
-    program. This can be changed through the 'Configure' (Configure > Image
-    Path...)
+    program. This can also be changed through the 'Configure' menu (*Configure > Image
+    Path...*)
 
   + If the user decides not to permanently store the images taken until that point, he can press
     the  'Clear all' button. This clears all the images stored in the internal
@@ -36,7 +36,7 @@ Through the window, the user can interact with the following features:
 - Communication with the Arduino
   
   + At first the user must issue the port to which the arduino is connected to.
-    This can be accomplished using the 'Arduino Port' option from the Confgure
+    This can be accomplished using the '*Arduino Port*' option from the Confgure
     drop-down menu. 
 
   + When the arduino doesn't respond as expected the user can start debugging
