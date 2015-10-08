@@ -37,7 +37,7 @@ To download the project navigate to the corresponding `Github repository <https:
 Before running the GUI, the user must have a series of packages and extensions
 installed in MATLAB. These are described in the `Packages required`_ section
 above. If everything looks OK, the user can then proceed and upload the Arduino
-Code to the Arduino start matlab and and then launch the GUI from the
+Code to the Arduino, start matlab and and then launch the GUI from its
 corresponding folder. 
 
 .. figure:: ../Images/arduinoCode.png
