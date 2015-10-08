@@ -46,7 +46,7 @@ corresponding folder.
 
 A summary of the steps is also described below:
 
-- Download the ZIP folder/ Clone the Github repository
+- Download the ZIP file/ Clone the Github repository
 - Upload the arduino code (ArduinoCode.ino) to the Arduino
 - Launch matlab, and run the microscope program (make sure you are running it
   from inside its corresponding folder)
