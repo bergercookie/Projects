@@ -8,8 +8,9 @@ Guide to ElecMicroscope2000
 
 Graphical User Interface for using Arduino driven electrical microscope motors.
 The task of the Arduino is to control a series of servomotors and steppermotors
-which drive a microscope. The user can also shoot pictures using any available
-cameras and save them for further analysis.
+which control the speciments platform for analysis, the filter positions and
+lamp of the microscope, as well as the mounted camera on top of the microscope
+used to take pictures of the speciments.
 The software is implemented in both OSX and Windows platforms and is written
 using the MATLAB GUIDE environment.
 
