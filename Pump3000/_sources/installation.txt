@@ -24,8 +24,7 @@ Running the executable
 located in the <location_to_project>/python_code/dist folder [#f1]_ [#f2]_.
 
 .. figure::  ../Images/finding-exe.png
-   :height: 7000px
-   :scale:  10 %
+   :scale:  50 %
    :align:  center
 
    Finding the .exe file
@@ -77,8 +76,7 @@ command-prompt [Windows]::
 Note that the user should first go to the folder, the Pump3000.py is located. 
 
 .. figure::  ../Images/running-py.png
-   :height: 7000px 
-   :scale:  10 %
+   :scale: 50 %
    :align:  center
 
    Running from source on MacOS
@@ -111,8 +109,7 @@ the port the pump is running on.
 .. _finding-manage:
 
 .. figure::  ../Images/finding-manage.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 50 %
    :align: center
 
    'Manage' tab
@@ -120,8 +117,7 @@ the port the pump is running on.
 .. _finding-com-ports:
 
 .. figure::  ../Images/finding-com-ports.png
-   :height: 7000px 
-   :scale:  10 %
+   :scale 50 %
    :align:  center
 
    Configuring COM ports
@@ -136,8 +132,7 @@ After that you are ready to :ref:`run the software <running-it>` (whichever way 
 port connected to the pump must be selected
 
 .. figure::  ../Images/dev-conf.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 50 %
    :align: center
 
    Configuring correct port for pump
@@ -152,8 +147,7 @@ You are now in the Main Window. From here you can:
 - Issue a quick command to the pump (halt, push_all, etc) 
 
 .. figure::  ../Images/main-window.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 80 %
    :align: center
 
    Main window
@@ -179,8 +173,7 @@ From the main window you can navigate to a series of **other dialogs:**
 
 
 .. figure::  ../Images/editor-tab.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 50 %
    :align: center
  
    The Editor's Tab
@@ -195,8 +188,7 @@ From the main window you can navigate to a series of **other dialogs:**
   * Commands issued by the software to decide pump status
 
 .. figure::  ../Images/history-window.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 50 %
    :align: center
 
    History window
@@ -210,8 +202,7 @@ From the main window you can navigate to a series of **other dialogs:**
   Gives the user an overview of the pump currently configured settings
 
 .. figure::  ../Images/reports-window.png
-   :height: 7000px 
-   :scale: 10 %
+   :scale: 50 %
    :align: center
 
    Reports window

@@ -21,8 +21,6 @@ protocol.
 .. _hardware-conf:
 
 .. figure::  ../Images/breadboard.jpg
-    :height: 7000px
-    :scale:  10 %
     :align:   center
 
     Suggested Hardware Communication to the pump
@@ -30,8 +28,6 @@ protocol.
 .. _adapters:
 
 .. figure:: ../Images/adapters.jpg
-    :height: 7000px
-    :scale:  10 %
     :align:   center
 
     Adapters setup
