@@ -1,0 +1,4 @@
+GUI Overview
+===================
+
+.. todo:: include image of the GUI interface, windows
