@@ -1,12 +1,38 @@
 Getting Started
 ========================
 
+Packages required
+*********************************
 
 Downloading the software
 *********************************
+ 
+To download the project navigate to the corresponding `Github repository <https://github.com/bergercookie/ElecMicroscope>`_ and either clone the project or downlaod the zip version.
 
-Packages required
-*********************************
+.. todo:: include the image
+
+Before running the GUI, the user must have a series of packages and extensions
+installed in MATLAB. These are described in the `Packages required` section
+below. If everything looks OK, the user can then proceed and upload the Arduino
+Code to the Arduino and then start matlab and launch the GUI from the
+corresponding folder. 
+
+.. todo:: include the arduino code image
+
+A summary of the steps is also described below:
+
+- Download the ZIP folder/ Clone the Github repository
+- Upload the arduino code (ArduinoCode.ino) to the Arduino
+- Launch matlab, and run the microscope program (make sure you are running it
+  from inside its corresponding folder
+
+After the above steps you are ready to explore the main window and issue
+commands to the arduino accordingly.
+
+.. warning:: Make sure you close MATLAB before trying to upload a differt
+ : version of the arduino code. Otherwise the Arduino IDE will not be able to
+ : upload the program using the specified port as MATLAB still has
+ : read/write access to the port.
 
 Setup and Execution
 *********************************
