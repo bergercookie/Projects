@@ -1,4 +1,23 @@
 GUI Overview
 ===================
 
+Below a general overview of the GUI is presented. 
+
+
+Through the window, the user can interact with the following features:
+
+- Camera pane
+  * The user can capture an image using the 'Shoot' button. The photos taken are
+    stored in program internal buffers the user presses the 'Save all' button.
+    This behavior can be altered through the 'Configure' drop-down menu
+    (Configure > Save Intsantly). 
+  * By default the 'write' directory is the one from which you launch the  
+    program. This can be changed through the 'Configure' ('Configure > Image
+    Path..)
+  * If the user decides not to permanently store the images taken until then, he can press
+    the  'Clear all' button.
+
+
 .. todo:: include image of the GUI interface, windows
+
+
