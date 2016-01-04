@@ -23,11 +23,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    structural
-    imageAnalysis
-    androidApp
-    about
-    contact-info
+   structural
+   imageAnalysis
+   androidApp
+   about
+   contact-info
 
 
 Indices and tables
