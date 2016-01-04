@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sperm-project's documentation!
+SpermProject
 =========================================
 
 <todo - ProductName>'s goal is to provide a reliable point-of-care solution for automated sperm
@@ -16,6 +16,8 @@ analysis. The project consists of three parts:
 - Android Application
 
 .. todo:: add here
+
+.. todo:: change the name of the project
 
 Contents:
 =========================================================
