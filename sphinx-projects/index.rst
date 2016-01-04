@@ -20,7 +20,7 @@ regarding suggestions thoughts etc.
   * `Pump3000 <http://bergercookie.github.io/Projects/Pump3000/>`_
   * `Turbomachines-Project <https://github.com/bergercookie/Turbomachines-Project>`_
   * `ElecMicroscope2000 <http://bergercookie.github.io/Projects/ElecMicroscope2000>`_ 
-  * `SpermProject <http://bergercookie.github.io/Projects/SpermProject`_ 
+  * `SpermProject <http://bergercookie.github.io/Projects/SpermProject>`_ 
 
 - Free Time Stuff
 
