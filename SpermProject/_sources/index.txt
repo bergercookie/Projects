@@ -6,8 +6,8 @@
 Welcome to sperm-project's documentation!
 =========================================
 
-<todo - ProductName> is to provide a point-of-care solution for automated sperm
-analysis. The project consists of three parts
+<todo - ProductName>'s goal is to provide a reliable point-of-care solution for automated sperm
+analysis. The project consists of three parts:
 
 - Device 
 
@@ -15,7 +15,10 @@ analysis. The project consists of three parts
 
 - Android Application
 
+.. todo:: add here
+
 Contents:
+=========================================================
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +28,6 @@ Contents:
     androidApp
     about
     contact-info
-
 
 
 Indices and tables
