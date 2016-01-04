@@ -2,3 +2,5 @@ Software
 =========================================================
 
 .. todo:: add here
+.. todo:: break down the algorithm, What does it do? How does it work? Where
+          did we get each part of the code?
