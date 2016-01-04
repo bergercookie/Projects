@@ -20,7 +20,7 @@ Engineering" course offered by the `Mech. Engineering Department
 <http://www.mech.ntua.gr/en/home>`_ of `NTUA
 <http://www.ntua.gr/index_en.html>`_.
 
-Ackknowledgements
+Acknowledgements
 ---------------------------------------------------------
 For their technical support and for providing valuable insight during the
 project we would like to thank the following people
