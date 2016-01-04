@@ -6,7 +6,7 @@ Optics Background
 .. todo:: Add math
 .. todo:: Add visio graph
 
-Device Structure
+Device Assembly
 ---------------------------------------------------------
 
 Design
