@@ -1,4 +1,4 @@
-curDir = "$PWD"
+curDir="$PWD"
 cd /Users/nick/local/Projects
 
 echo "Making the html static for index page"
