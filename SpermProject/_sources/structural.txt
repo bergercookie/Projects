@@ -1,0 +1,24 @@
+Device Deisgn
+=========================================================
+
+Optics Background
+---------------------------------------------------------
+.. todo:: Add math
+.. todo:: Add visio graph
+
+Device Structure
+---------------------------------------------------------
+
+Design
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. todo:: Add description
+.. todo:: add CAD files - images to the mock plan
+
+Manufacturing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Add manufacturing steps
+
+
