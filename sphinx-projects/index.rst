@@ -6,14 +6,15 @@
 Github Projects
 ====================================
 
-*Hi!*
+.. code-block:: C++
+   cout << Hello World! << endl;
 
 This is bergercookie's page.
 I currently study mechanical engineering in the National Technical University of Athens.
 Among others, I love coding, basketball, or just hanging aroung and talking
 about interesting stuff.
 
-Here I will be uploading code and documentation regarding my projects. 
+Here I will be uploading news, code and documentation regarding my projects. 
 Feel free to contact me regarding suggestions thoughts etc.
 
 - NTUA Projects
@@ -25,4 +26,8 @@ Feel free to contact me regarding suggestions thoughts etc.
 
 - Free Time Stuff
 
-  * `Dotfiles <https://github.com/bergercookie/dotfiles>`_
+  * `News 'n Thoughts <https://github.com/bergercookie/news-n-thoughts>`_
+  * `Dotfiles <https://github.com/bergercookie/dotfiles-reborn>`_
+
+
+
